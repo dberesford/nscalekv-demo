@@ -1,0 +1,24 @@
+{
+  "name": "nscalekv-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dberesford/nscalekv-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dberesford/nscalekv-demo/issues"
+  },
+  "homepage": "https://github.com/dberesford/nscalekv-demo",
+  "dependencies": {
+    "concat-stream": "^1.4.7",
+    "redis": "^0.12.1"
+  }
+}
